@@ -10,3 +10,5 @@ var BookSchema = mongoose.Schema({
         index:true          //辅助索引
     }
 })
+
+
